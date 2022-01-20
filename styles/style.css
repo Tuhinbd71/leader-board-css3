@@ -108,6 +108,12 @@ top blog style
 .fa-star.empty{
     color: #AEAEAE;
 }
+.author{
+    Width: 89px;
+    Height: 17px;
+    font-size: 14.6913px;
+    color: #ED6B4F;
+}
 .course-info{
     display: flex;
     align-items: center;
